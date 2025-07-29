@@ -1,4 +1,4 @@
-package com.saadhadadia.ecommerce.customer.handler;
+package com.saadhadadia.ecommerce.handler;
 
 import java.util.Map;
 

@@ -1,5 +1,8 @@
-package com.saadhadadia.ecommerce.customer;
+package com.saadhadadia.ecommerce.mapers;
 
+import com.saadhadadia.ecommerce.customer.Customer;
+import com.saadhadadia.ecommerce.requests.CustomerRequest;
+import com.saadhadadia.ecommerce.responses.CustomerResponse;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,5 +1,6 @@
-package com.saadhadadia.ecommerce.customer;
+package com.saadhadadia.ecommerce.requests;
 
+import com.saadhadadia.ecommerce.customer.Address;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;
 

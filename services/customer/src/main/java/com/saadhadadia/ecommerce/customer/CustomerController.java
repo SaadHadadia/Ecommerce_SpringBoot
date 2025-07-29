@@ -1,5 +1,7 @@
 package com.saadhadadia.ecommerce.customer;
 
+import com.saadhadadia.ecommerce.requests.CustomerRequest;
+import com.saadhadadia.ecommerce.responses.CustomerResponse;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

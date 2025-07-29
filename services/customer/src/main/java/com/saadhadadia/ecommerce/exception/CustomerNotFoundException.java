@@ -1,4 +1,4 @@
-package com.saadhadadia.ecommerce.customer.exception;
+package com.saadhadadia.ecommerce.exception;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

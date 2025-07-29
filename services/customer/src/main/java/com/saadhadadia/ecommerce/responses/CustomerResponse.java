@@ -1,4 +1,6 @@
-package com.saadhadadia.ecommerce.customer;
+package com.saadhadadia.ecommerce.responses;
+
+import com.saadhadadia.ecommerce.customer.Address;
 
 public record CustomerResponse(
         String id,
