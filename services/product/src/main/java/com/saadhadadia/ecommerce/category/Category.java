@@ -3,7 +3,6 @@ package com.saadhadadia.ecommerce.category;
 import com.saadhadadia.ecommerce.product.Product;
 import jakarta.persistence.*;
 import lombok.*;
-
 import java.util.List;
 
 @AllArgsConstructor

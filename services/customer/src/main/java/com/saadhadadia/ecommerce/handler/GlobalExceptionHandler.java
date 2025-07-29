@@ -1,6 +1,6 @@
 package com.saadhadadia.ecommerce.handler;
 
-import com.saadhadadia.ecommerce.exception.CustomerNotFoundException;
+import com.saadhadadia.ecommerce.exceptions.CustomerNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

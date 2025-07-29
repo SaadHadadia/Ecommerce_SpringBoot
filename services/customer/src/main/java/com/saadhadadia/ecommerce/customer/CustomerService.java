@@ -1,13 +1,12 @@
 package com.saadhadadia.ecommerce.customer;
 
-import com.saadhadadia.ecommerce.exception.CustomerNotFoundException;
+import com.saadhadadia.ecommerce.exceptions.CustomerNotFoundException;
 import com.saadhadadia.ecommerce.mapers.CustomerMapper;
 import com.saadhadadia.ecommerce.requests.CustomerRequest;
 import com.saadhadadia.ecommerce.responses.CustomerResponse;
 import io.micrometer.common.util.StringUtils;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.stream.Collectors;
 
