@@ -30,5 +30,5 @@ public class OrderController {
     public ResponseEntity<List<OrderResponse>> findAll() {
         return ResponseEntity.ok(this.service.findAllOrders());
     }
-    
+
 }
